@@ -11,6 +11,28 @@ A continuación se mostrará el resultado de cada ejercicio con un GIF.
 ![Ejecución ejercicio2](./exercise2.gif)
 
 ## Ejercicio 3
+Resultados de las situaciones:
+
+a. Duplicas las coordenadas de la dirección del movimiento:
+
+El cubo se mueve en la misma dirección, pero con el doble de la velocidad en esa dirección específica.
+
+b. Duplicas la velocidad manteniendo la dirección del movimiento:
+
+El cubo se mueve más rápido en la misma dirección.
+
+c. La velocidad que usas es menor que 1:
+
+El cubo se mueve más lento en la dirección especificada. Puede parecer que el cubo se desplaza a una velocidad reducida en comparación con la velocidad normal.
+
+d. La posición del cubo tiene y>0:
+
+El cubo se eleva desde esa posición inicial en la dirección especificada por moveDirection.
+
+e. Intercambiar movimiento relativo al sistema de referencia local y el mundial:
+
+Si cambias entre el movimiento relativo al sistema de referencia local y el mundial, el cubo siempre se moverá en la misma dirección en el espacio global, independientemente de su orientación local. Esto significa que la dirección del movimiento será constante en el espacio mundial.
+
 ![Ejecución ejercicio3](./exercise3.gif)
 
 ## Ejercicio 4
