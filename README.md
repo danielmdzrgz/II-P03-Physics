@@ -60,4 +60,15 @@ Si cambias entre el movimiento relativo al sistema de referencia local y el mund
 ![Ejecución ejercicio8](./exercise11.gif)
 
 ## Ejercicio 12
+Resultados de aplicar las distintas configuraciones:
+- Aplicando configuraciones a la esfera:
+  - Masa 10 veces mayor que el cilindro: La esfera es más difícil de mover por a su mayor masa y el cilindro necesitará ejercer una fuerza mayor para moverla.
+  - Masa 10 veces menor que el cilindro: El caso contrario, el cilindro mueve muy fácilmente la esfera sin apenas necesitar fuerza.
+  - Esfera cinemática: La esfera no experimenta ninguna interacción física con el cilindro, el cilindro pasa a través de la esfera sin ningún efecto.
+  - Esfera trigger: Cuando el cilindro entra en la zona de trigger de la esfera, puede activar eventos o notificar la colisión, pero la esfera no ejerce fuerzas físicas sobre el cilindro ni detiene su movimiento.
+ 
+- Aplicando configuraciones al cilindro:
+  - Duplicar la fricción: Aumenta la resistencia que experimenta el cilindro cuando se desplaza sobre una superficie. Esto puede hacer que el cilindro se mueva más lentamente y requiera más fuerza para acelerar o cambiar de dirección y tener dificultades para moverse hacia la esfera y/o moverla.
+  - No duplicar la fricción: El cilindro mantiene su fricción normal con la superficie en la que se encuentra permitiendo que se desplace más fácilmente que con el doble de fricción.
+
 ![Ejecución ejercicio8](./exercise12.gif)
